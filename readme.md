@@ -1,6 +1,6 @@
 # E-Commerce Data Analytics Tool
 
-*This readMe was created with the help of ChatGPT as a guideline for our future self-written readMe*
+*This readMe was created with the help of ChatGPT as a guideline for our future self-written readMe* 123
 
 ## Overview
 E-commerce companies often sell products across various sales channels, including webshops, marketplaces, and B2B platforms. However, managing and analyzing data from these disparate sources can be challenging. This project aims to solve this problem by providing a comprehensive software solution that consolidates data from different sales channels and enables informed decision-making for e-commerce businesses.
